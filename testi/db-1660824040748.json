@@ -1,0 +1,30 @@
+{
+  "resturant": [
+    {
+      "id": 12,
+      "name": "Nikhil Yadav",
+      "email": "nikhil.yadav@walkingtree.tech",
+      "mobile": 8433458243,
+      "address": "Bajrang Nagar Sikandra Agra",
+      "services": "dsadsdsssfsf"
+    },
+    {
+      "id": 13,
+      "name": "ashish",
+      "email": "gmail.com",
+      "mobile": 1233,
+      "address": "Bajrang Nagar Sikandra Agra",
+      "services": "chai"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

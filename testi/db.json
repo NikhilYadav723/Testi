@@ -1,0 +1,186 @@
+{
+  "resturant": [
+    {
+      "id": 2,
+      "name": "Nikhil Yadav",
+      "email": "nikhil.yadav@walkingtree.tech",
+      "mobile": 8433458243,
+      "address": "Bajrang Nagar Sikandra Agra",
+      "services": "sss"
+    },
+    {
+      "id": 3,
+      "name": "Nikhil yaadav",
+      "email": "nikhil.yadav@walkingtree.tech",
+      "mobile": 8433458243,
+      "address": "Bajrang Nagar Sikandra Agra",
+      "services": "Html css"
+    }
+  ],
+  "signup": [
+    {
+      "name": "nike",
+      "email": "",
+      "mobile": "222222",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "Nikhil",
+      "email": "nikhil.yadav@walkingtree.tech",
+      "mobile": "8433458243",
+      "password": "8475997825",
+      "id": 2
+    },
+    {
+      "name": "nikhil",
+      "email": "nikhil.yadav@walkingtree.tech",
+      "mobile": "8433458243",
+      "password": "123456789",
+      "id": 3
+    },
+    {
+      "name": "nikhil",
+      "email": "nike@gmail.com",
+      "mobile": "12345678",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "name": "sss",
+      "email": "nikhil.yadav@walkingtree.tech",
+      "mobile": "123456",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "name": "anuj",
+      "email": "nikk@gmail.com",
+      "mobile": "123456",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "name": "nikhil",
+      "email": "anuj@gmail.com",
+      "mobile": "1234567",
+      "password": "123456",
+      "id": 7
+    },
+    {
+      "name": "shivam",
+      "email": "nikhil.yadav@walkingtree.tech",
+      "mobile": "123456",
+      "password": "123456",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "user",
+      "mobile": "",
+      "password": "test",
+      "id": 9
+    },
+    {
+      "name": "deepak",
+      "email": "user123",
+      "mobile": "123456789",
+      "password": "12345",
+      "id": 10
+    },
+    {
+      "name": "Anuj",
+      "email": "anuj@123",
+      "mobile": "12345678",
+      "password": "123456789",
+      "id": 11
+    },
+    {
+      "name": "tanu",
+      "email": "user@1234",
+      "mobile": "989889988",
+      "password": "123456",
+      "id": 12
+    },
+    {
+      "name": "nikhil",
+      "email": "nik123",
+      "mobile": "987654321",
+      "password": "123456",
+      "id": 13
+    },
+    {
+      "name": "nikhil",
+      "email": "user@1234",
+      "mobile": "987654321",
+      "password": "12345",
+      "id": 14
+    },
+    {
+      "name": "nikhil yadav",
+      "email": "nikhilyadav171@gmail.com",
+      "mobile": "8475997825",
+      "password": "1234567",
+      "id": 15
+    },
+    {
+      "name": "anuj",
+      "email": "anuj@123",
+      "mobile": "987654321",
+      "password": "123456",
+      "id": 16
+    },
+    {
+      "name": "shivam",
+      "email": "user@123456",
+      "mobile": "987654321",
+      "password": "123456",
+      "id": 17
+    },
+    {
+      "name": "nitesh",
+      "email": "nitesh@gmail.com",
+      "mobile": "8888888888",
+      "password": "12345",
+      "id": 18
+    },
+    {
+      "name": "samrat",
+      "email": "samarat.walking@gmail.com",
+      "mobile": "8433458243",
+      "password": "123456",
+      "id": 19
+    },
+    {
+      "name": "Nikhil Yadav",
+      "email": "nikhil.yadav@walkingtree.tech",
+      "mobile": "8433458243",
+      "password": "12345",
+      "id": 20
+    },
+    {
+      "name": "nikhil",
+      "email": "nikkiyadav723@gmail.com",
+      "mobile": "8433458243",
+      "password": "1234567",
+      "id": 21
+    },
+    {
+      "name": "nikhil jain",
+      "email": "Nikhilyadav989@gmail.com",
+      "mobile": "8759589999",
+      "password": "12345",
+      "id": 22
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
